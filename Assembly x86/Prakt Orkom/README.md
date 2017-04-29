@@ -1,6 +1,7 @@
 # Praktikum Organisasi dan Arsitektur Komputer
 
-Source code for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id
+Source code for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id.
+Source code's name has been sorted in ascending order starting from "Hello x86".
 
 ## Getting Started
 
@@ -14,7 +15,6 @@ $ sudo apt-get update && sudo apt-get install geany
 ### Installing Prerequisites
 ```
 $ sudo apt-get install gcc g++ gcc-multilib
-
 $ sudo apt-get install yasm nasm
 ```
 
