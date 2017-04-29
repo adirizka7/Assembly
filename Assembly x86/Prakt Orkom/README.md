@@ -1,11 +1,11 @@
 # Praktikum Organisasi dan Arsitektur Komputer
 
-Source code for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id.
+These files above are solutions for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id.
 Source code's name has been sorted in ascending order starting from "Hello x86".
 
 ## Getting Started
 
-These instructions will get you what you need to compile and run the asm source code above. 
+These instructions will get you what you need to compile and run the asm source code file. 
 
 ### Installing Geany
 ```
