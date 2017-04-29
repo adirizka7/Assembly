@@ -1,10 +1,24 @@
 # Praktikum Organisasi dan Arsitektur Komputer
 
-Installation :
+Source code for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id
+
+## Getting Started
+
+These instructions will get you what you need to compile and run the asm source code above. 
+
+### Installing Geany
+```
 $ sudo add-apt-repository ppa:geany-dev/ppa
 $ sudo apt-get update && sudo apt-get install geany
+```
+### Installing Prerequisites
+```
 $ sudo apt-get install gcc g++ gcc-multilib
-$ sudo apt-get install yasm nasm
 
-Set Build Command :
+$ sudo apt-get install yasm nasm
+```
+
+### Set Build Command (Geany Build Command) :
+```
 yasm %f -f elf32 -g dwarf2 -l %e.lst && gcc -o %e -m32 %e.o
+```
