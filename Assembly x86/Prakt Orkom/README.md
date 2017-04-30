@@ -1,7 +1,7 @@
 # Praktikum Organisasi dan Arsitektur Komputer
 
 These files above are solutions for OAK Praktikum 1617 'contest' on http://lx.apps.cs.ipb.ac.id.
-Source code's name has been sorted in ascending order starting from "Hello x86".
+Source code's name have been sorted in ascending order starting from "Hello x86".
 
 ## Getting Started
 
